@@ -1,44 +1,66 @@
-import { Grid } from "@mui/material";
-import React, { useState } from "react";
-
-import Dropdown from "react-bootstrap/Dropdown";
+import React from "react";
 
 function Home() {
   return (
-    <>
-      <div className="section ">
-        <div className="">
-          <h1 className="m-y-2 animate__animated animate__bounce ">
-            Current Listings
-          </h1>
+    <div className="containerkws">
+      <div className="">
+        <div className="tac mb5">
+          <img src="/logo2.webp" className="w20  db ma" alt="" />
+          <img src="/mkd.webp" className="w25  db ma" alt="" />
         </div>
-        <input type="text" className="p-0_5 b-r-10 w-100" />
-
-        <Dropdown>
-          <Dropdown.Toggle
-            variant="success"
-            id="dropdown-basic"
-            className="b-c-t c-i b-c-i m-t-2"
+        <div className="btn-group df aic g1 jcc flex-wrap">
+          <a
+            href="https://t.me/smidgecoin"
+            class="btn primary large"
+            title="Telegram"
+            rel="noreferrer"
+            target="_blank"
           >
-            Dropdown Button
-          </Dropdown.Toggle>
-
-          <Dropdown.Menu className="">
-            <Dropdown.Item href="#/action-1">Action</Dropdown.Item>
-            <Dropdown.Item href="#/action-2">Another action</Dropdown.Item>
-            <Dropdown.Item href="#/action-3">Something else</Dropdown.Item>
-          </Dropdown.Menu>
-        </Dropdown>
-        <Grid container className="b-1">
-          <Grid item xs={6} className="b-1">
-            A
-          </Grid>
-          <Grid item xs={6} className="b-1">
-            A
-          </Grid>
-        </Grid>
+            <span class="btn-circ">
+              <i data-ico="tg"></i>
+            </span>
+            TELEGRAM
+          </a>
+          <a
+            href="https://x.com/SmidgeCoin"
+            class="btn secondary large"
+            title="Twitter"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <span class="btn-circ">
+              <i data-ico="tw" data-theme="yellow"></i>
+            </span>
+            TWITTER
+          </a>
+          <a
+            href="https://www.dextools.io/app/en/solana/pair-explorer/H99U7toZ5gEuJKLANECvaXqfVq2AGFFk5SRxttN6Zyqo?t=1719239221490"
+            class="btn secondary large"
+            title="DEXTOOLS"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <span class="btn-circ">
+              <i data-ico="dextools" data-theme="yellow"></i>
+            </span>
+            DEXTOOLS
+          </a>
+        </div>{" "}
+        <section class="contractCopy">
+          <input
+            type="text"
+            value="2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa"
+            style={{ position: "fixed", left: "-9999px" }}
+          />
+          <p class="clipboard">
+            <span class="reduced">
+              2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa
+            </span>{" "}
+            <i data-ico="clipboard"></i>
+          </p>
+        </section>
       </div>
-    </>
+    </div>
   );
 }
 

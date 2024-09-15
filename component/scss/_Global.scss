@@ -1,13 +1,13 @@
 @font-face {
-  font-family: "bebas";
-  src: url("../../public/BebasNeueRegular.ttf");
+  font-family: "font";
+  src: url("../../public/font/DeliciousHandrawn-Regular.ttf");
 }
 
 * {
   margin: 0;
   padding: 0;
   box-sizing: borderbox;
-  //   fontfamily: "bebas";
+  font-family: "font";
 
   ul {
     margin: 0 !important;

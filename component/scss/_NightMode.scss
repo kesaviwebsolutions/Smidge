@@ -1,0 +1,125 @@
+// .dark-theme {
+//     --background-color: black;
+//     --color: white;
+// }
+
+// .light-theme {
+//     --background-color: white;
+//     --color: rgb(18, 18, 18);
+// }
+
+:root {
+  --primary: var(--accent);
+  --primary-rgb: 52, 50, 48;
+  --grey: #c9c9c9;
+  --smoke: #000;
+  --negative: #000;
+  --accent: #9b74e7;
+  --h-accent: #815bcf;
+  --semi-accent: #74a85e;
+  --yellow: #fff;
+  --h-yellow: #c5adf8;
+  --red: #eb4c4c;
+  --pink: #ea39d7;
+  --blue: #3a80fe;
+  --teal: #4beab4;
+  --green: #6742b5;
+  --chartreusse: #b1d559;
+  --orange: #ed965c;
+  --magenta: #da5378;
+  --alert: #e17860;
+  --border: var(--accent);
+  --global-width: 1760px;
+  --global-p-width: 480px;
+  --global-padding: 20px;
+  --global-body-bg: var(--negative);
+  --gutter: 10px;
+  --heading: "Milky Nice", sans-serif;
+  --line-height: 1;
+  --globall-line-height: 1.4;
+  --reduced-line-height: 1.2;
+  --body: "Valera", sans-serif;
+  --h1: 20.25vw;
+  --h2: 12vw;
+  --h3: 9.3vw;
+  --h4: 26px;
+  --h5: 20px;
+  --h6: 16px;
+  --paragraph: 16px;
+  --small: 73%;
+  --rate: 0.85;
+  --large-radius: 48px;
+  --v-small: 20px;
+  --v-medium: 50px;
+  --v-large: 100px;
+  --t-spacer: 11.5vh;
+  --btn-huge: 21px;
+  --btn-large: 18px;
+  --btn-small: 16px;
+  --btn-tiny: 12px;
+  --btn-radius: 60px;
+  --btn-padding: 20.83333px 41.66667px;
+  --btn-small-padding: 10.83333px 20.83333px;
+  --btn-large-padding: 31.25px 41.66667px;
+  --btn-tiny-padding: 7.5px 11.66667px;
+}
+
+html,
+body,
+input,
+select,
+#dropdown,
+.modal-content,
+.pa-1.offcanvas.offcanvas-start.show,
+svg,
+.dropdown-menu.show {
+  background-color: black !important;
+  color: white;
+  fill: white !important;
+  border-color: white !important;
+}
+.btn.yellow {
+  background-color: var(--yellow);
+}
+.btn.small {
+  font-size: var(--btn-small);
+  padding: var(--btn-small-padding);
+}
+
+.btn {
+  border: 2px solid var(--h-accent);
+  border-radius: 20px !important;
+  box-shadow: -5px 6px 0 0 var(--h-accent);
+  color: inherit;
+  cursor: pointer;
+  font-family: var(--heading);
+  font-size: var(--btn-large);
+  line-height: 1;
+  padding: var(--btn-padding);
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.2s ease-in-out;
+}
+.btn.yellow:hover {
+  background-color: var(--h-yellow);
+}
+.btn:hover {
+  box-shadow: 0 0 0 0 var(--negative);
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
+.btn-group .btn:not(:last-child) {
+  margin-right: calc(var(--gutter) / 2);
+}
+.btn.primary {
+  background-color: var(--accent);
+  color: var(--yellow);
+}
+.btn.large {
+  font-size: var(--btn-huge);
+  padding: var(--btn-large-padding);
+}
+.btn:not(.spaceless) {
+  margin-top: var(--v-medium);
+}
