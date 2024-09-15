@@ -1,18 +1,78 @@
 .dropdown {
-    position: relative;
-    display: inline-block;
+  position: relative;
+  display: inline-block;
 }
 
 .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
-    padding: 12px 16px;
-    z-index: 1;
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  padding: 12px 16px;
+  z-index: 1;
 }
 
 .dropdown:hover .dropdown-content {
-    display: block;
+  display: block;
+}
+
+.accordion-container {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #9b74e7;
+  padding: 20px;
+  border-radius: 12px;
+  font-family: "Comic Sans MS", sans-serif;
+}
+
+.accordion-item {
+  margin-bottom: 10px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.accordion-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  padding: 15px;
+  background-color: #8a4be0;
+  color: white;
+  font-size: 18px;
+  border: 2px solid #5c37a8;
+  border-radius: 12px;
+  transition: background-color 0.3s ease;
+}
+
+.accordion-header h3 {
+  margin: 0;
+}
+
+.accordion-header .icon {
+  font-size: 20px;
+}
+
+.accordion-header:hover {
+  background-color: #7547c5;
+}
+
+.accordion-content {
+  padding: 15px;
+  background-color: #9b74e7;
+  color: #333;
+  border: solid #5c37a8;
+  border-width: 2px 2px 5px 5px;
+  border-radius: 40px;
+}
+
+.accordion-content p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.mt_3 {
+  margin-top: -18rem !important;
 }

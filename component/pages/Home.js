@@ -1,4 +1,5 @@
 import React from "react";
+import Accordian from "./Accordian";
 
 function Home() {
   return (
@@ -212,7 +213,61 @@ function Home() {
               </div>
             </div>
           </div>
+          <div className="my5 dg gtc g2">
+            <div className="fs2 fw600 cw">
+              Buy Smidge now and join us in the Frog Kingdom takeover!
+            </div>
+            <div className="">
+              {" "}
+              <Accordian />
+            </div>
+          </div>{" "}
         </div>
+      </div>
+      {/* --------------------------------------------------- */}
+      <img src="/social.webp" className="w100" alt="" />
+      {/* ----------------------------------------------------- */}
+      <div className="containerkws tac mt_3 lp">
+        <div className="tac fs3 fw600">Socials</div>
+        <div className="tac fs3 fw600">Join the Smidge Culture</div>
+      </div>
+      {/* ------------------------------------------------------- */}
+      <div className="">
+        <div class="note fw">
+          <div class="marquee bordered marquee-left">
+            <div class="marquee-el" style={{ animationDuration: "45s" }}>
+              <p>
+                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+              </p>
+            </div>
+            <div class="marquee-el" style={{ animationDuration: "45s" }}>
+              <p>
+                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      {/* -------------------------------------------------------- */}
+      <div className="py7 df aic jcsb lp containerkws">
+        <div className="">SMIDGE 2024</div>
+        <div className="">2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa</div>
       </div>
     </div>
   );
