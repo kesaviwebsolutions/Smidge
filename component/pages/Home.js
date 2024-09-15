@@ -187,14 +187,30 @@ function Home() {
         {/* //---------------------------------------- */}
       </div>
       {/* -------------------------------------------- */}
-      <div className="containerkws">
-        <div className="fs2 fw600 tac my3 cw">Tokenomics</div>
-        <div className="b1 ">
-          <div className="dg gtc g3">
-            <div className="">
-              <img src="/box.webp" className="w25" alt="" />
+      <div className="bglp">
+        <div className="containerkws">
+          <div className="fs2 fw600 tac my3 cw">Tokenomics</div>
+          <div className="b1 pa3 br30">
+            <div className="dg gtc g3">
+              <div className="">
+                <img src="/box.webp" className="w25 db ma" alt="" />
+              </div>
+              <div className="">
+                <div className="fs2 fw600 mb1">Supply Breakdown</div>
+                <div className=""> Token supply: 999 999 999</div>
+                <ul>
+                  <li>LP LOCKED</li>
+                  <li>MINT REVOKED</li>
+                  <li>CONTRACT RENOUNCED</li>
+                </ul>
+                <hr />
+                <div className="fs2 fw600">Token Holders</div>
+                <div className="">
+                  Token Holders SMIDGE tokens holders can use these tokens to
+                  participate in project governance, voting, obtaining rewards
+                </div>
+              </div>
             </div>
-            <div className=""></div>
           </div>
         </div>
       </div>
