@@ -212,7 +212,35 @@ function Home() {
       <div className="containerkws tac mt_3 lp">
         <div className="tac fs3 fw600">Socials</div>
         <div className="tac fs3 fw600">Join the Smidge Culture</div>
-        <div className="df aic jcc g1 "></div>
+        <div className="df aic jcc g1 mb5">
+          <div className="pa1 fs3 br50 bglp b_s cw ">
+            <FaXTwitter className="bct" />
+          </div>
+          <div className="pa1 fs3 br50 bglp b_s cw ">
+            <FaTelegramPlane className="bct" />
+          </div>
+          <div className="pa1 fs3 br50 bglp b_s cw ">
+            <img
+              src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
+              className="w3"
+              alt=""
+            />
+          </div>
+          <div className="pa1 fs3 br50 bglp b_s cw ">
+            <img
+              src="https://smidge.vip/static/media/dexscreener.5e3aa475c6a1996f72e8.svg"
+              className="w3"
+              alt=""
+            />
+          </div>
+          <div className="pa1 fs3 br50 bglp b_s cw ">
+            <img
+              src="https://smidge.vip/static/media/solscan-y.e92bafa1a551aaa2021d.svg"
+              className="w3"
+              alt=""
+            />
+          </div>
+        </div>
       </div>
       {/* -----------------------SLIDER-------------------------------- */}
       <div className="">
