@@ -39,11 +39,11 @@ function Home() {
           </div>{" "}
           <div className=" mb4 maxw75 db ma">
             <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-b-d-n">
-              2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa
+              1111111111111111111111111111111111111111111111
               <FaRegCopy className="fs15 bct" />
             </div>
             <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n">
-              {String("2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa").slice(
+              {String("1111111111111111111111111111111111111111111111").slice(
                 0,
                 4
               ) + "..."}
@@ -59,28 +59,28 @@ function Home() {
           <div class="marquee bordered marquee-left">
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
-                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+                $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
-                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+                $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
           </div>
@@ -97,28 +97,28 @@ function Home() {
           <div class="marquee bordered marquee-left">
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
-                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+                $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
-                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+                $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
           </div>
@@ -129,7 +129,7 @@ function Home() {
       <div className="containerkws mt5">
         <div className="dg gtc g3">
           <div className="">
-            <div className="fs3 fw600 mb1 lp">Who is $SMIDGE?</div>
+            <div className="fs3 fw600 mb1 lp">Who is $SANCHO?</div>
             <div className="mb2 fs15 lp">
               Meet Smidge, a smoller, cuter version of Pepe from the 5th
               generation of the frog kingdom. Known for his exaggerated
@@ -149,28 +149,28 @@ function Home() {
           <div class="marquee bordered marquee-left">
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
-                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+                $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
-                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+                $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
           </div>
@@ -197,7 +197,7 @@ function Home() {
                 <hr className="cw mt2" />
                 <div className="fs3 fw600 lpd">Token Holders</div>
                 <div className="cw">
-                  Token Holders SMIDGE tokens holders can use these tokens to
+                  Token Holders SANCHO tokens holders can use these tokens to
                   participate in project governance, voting, obtaining rewards
                 </div>
               </div>
@@ -256,28 +256,28 @@ function Home() {
           <div class="marquee bordered marquee-left">
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
-                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+                $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
-                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
-                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+                $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
+                $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
           </div>
@@ -285,12 +285,12 @@ function Home() {
       </div>
       {/* -------------------------------------------------------- */}
       <div className="py7 df aic jcsb lp containerkws">
-        <div className="">SMIDGE 2024</div>
+        <div className="">&copy; $SANCHO 2024</div>
         <div className="m-q-b-d-n">
-          2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa
+        1111111111111111111111111111111111111111111111
         </div>
         <div className="m-q-a-d-n">
-          {String("2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa").slice(0, 10) +
+          {String("1111111111111111111111111111111111111111111111").slice(0, 10) +
             "..."}
         </div>
       </div>
