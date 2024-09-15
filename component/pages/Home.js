@@ -63,6 +63,7 @@ function Home() {
           </section>
         </div>
       </div>
+      {/* //---------------------------------------- */}
       <div className="">
         <div class="note fw">
           <div class="marquee bordered marquee-left">
@@ -92,6 +93,108 @@ function Home() {
                 $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
               </p>
             </div>
+          </div>
+        </div>
+        {/* //---------------------------------------- */}
+      </div>
+      <div className="">
+        <img src="/piggyimage.webp" alt="" />
+      </div>
+      {/* ------------------------------------- */}
+      <div className="">
+        <div class="note fw">
+          <div class="marquee bordered marquee-left">
+            <div class="marquee-el" style={{ animationDuration: "45s" }}>
+              <p>
+                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+              </p>
+            </div>
+            <div class="marquee-el" style={{ animationDuration: "45s" }}>
+              <p>
+                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+              </p>
+            </div>
+          </div>
+        </div>
+        {/* //---------------------------------------- */}
+      </div>
+      {/* -------------------------------------- */}
+      <div className="containerkws mt5">
+        <div className="dg gtc g3">
+          <div className="">
+            <div className="fs2 fw600 mb1 lp">Who is $SMIDGE?</div>
+            <div className="mb2 fs15 lp">
+              Meet Smidge, a smoller, cuter version of Pepe from the 5th
+              generation of the frog kingdom. Known for his exaggerated
+              expressions, he gained popularity on 4chan and Reddit, becoming
+              viral. Join Smidge's journey to become the ultimate KOP (King of
+              the Pond) and reign over the kingdom.
+            </div>
+          </div>
+          <div className="">
+            <img src="/smidge.webp" className="w30 db ma" alt="" />
+          </div>
+        </div>
+      </div>
+      {/* ------------------------------------ */}
+      <div className="">
+        <div class="note fw">
+          <div class="marquee bordered marquee-left">
+            <div class="marquee-el" style={{ animationDuration: "45s" }}>
+              <p>
+                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+              </p>
+            </div>
+            <div class="marquee-el" style={{ animationDuration: "45s" }}>
+              <p>
+                $SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;$SMIDGE
+                $SMIDGE&nbsp;&nbsp;$SMIDGE $SMIDGE&nbsp;&nbsp;
+              </p>
+            </div>
+          </div>
+        </div>
+        {/* //---------------------------------------- */}
+      </div>
+      {/* -------------------------------------------- */}
+      <div className="containerkws">
+        <div className="fs2 fw600 tac my3 cw">Tokenomics</div>
+        <div className="b1 ">
+          <div className="dg gtc g3">
+            <div className="">
+              <img src="/box.webp" className="w25" alt="" />
+            </div>
+            <div className=""></div>
           </div>
         </div>
       </div>

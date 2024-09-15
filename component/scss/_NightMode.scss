@@ -148,7 +148,6 @@ svg,
   display: flex;
   flex-direction: row;
   font-size: calc(var(--paragraph) * 2);
-  margin-top: var(--v-medium);
   overflow: hidden;
   position: relative;
   width: 100%;
@@ -168,4 +167,12 @@ svg,
   transform: translateZ(0);
   -webkit-transform: translateZ(0);
   z-index: 1;
+}
+
+.w30 {
+  width: 30rem !important;
+}
+
+.lp {
+  color: #9b74e7 !important ;
 }
