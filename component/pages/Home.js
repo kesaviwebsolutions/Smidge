@@ -14,29 +14,35 @@ function Home() {
             <img src="/mkd.webp" className="animation w25  db ma" alt="" />
           </div>
           <div className="df aic ttu jcc g1 flex-wrap mb2">
-            <div className="w23 jcc py2 br60 bglp df aic b_s g1 cw fs2">
-              <div className="pa1 bcw br50 df aic jcc">
-                <FaTelegramPlane className="flp bct" />
+            <a href="" target="_blank">
+              <div className="w23 jcc py2 br60 bglp df aic b_s g1 cw fs2">
+                <div className="pa1 bcw br50 df aic jcc">
+                  <FaTelegramPlane className="flp bct" />
+                </div>
+                Telegram
               </div>
-              Telegram
-            </div>
-            <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 cw fs2">
-              <div className="pa1 bglp br50 df aic jcc">
-                <FaXTwitter className="fw bct" />
+            </a>
+            <a href="" target="_blank">
+              <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 cw fs2">
+                <div className="pa1 bglp br50 df aic jcc">
+                  <FaXTwitter className="fw bct" />
+                </div>
+                Twitter
               </div>
-              Twitter
-            </div>{" "}
-            <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 cw fs2">
-              <div className="pa1 bglp br50 df aic jcc">
-                <img
-                  src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
-                  alt=""
-                  className="w2"
-                />
+            </a>
+            <a href="" target="_blank">
+              <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 cw fs2">
+                <div className="pa1 bglp br50 df aic jcc">
+                  <img
+                    src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
+                    alt=""
+                    className="w2"
+                  />
+                </div>
+                Dextool
               </div>
-              Dextool
-            </div>
-          </div>{" "}
+            </a>
+          </div>
           <div className=" mb4 maxw75 db ma">
             <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-b-d-n">
               2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa
@@ -221,33 +227,43 @@ function Home() {
         <div className="tac fs3 fw600">Socials</div>
         <div className="tac fs3 fw600">Join the Smidge Culture</div>
         <div className="df aic jcc g1 mb5">
-          <div className="pa1 fs3 br50 bglp b_s cw ">
-            <FaXTwitter className="bct" />
-          </div>
-          <div className="pa1 fs3 br50 bglp b_s cw ">
-            <FaTelegramPlane className="bct" />
-          </div>
-          <div className="pa1 fs3 br50 bglp b_s cw ">
-            <img
-              src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
-              className="w3"
-              alt=""
-            />
-          </div>
-          <div className="pa1 fs3 br50 bglp b_s cw ">
-            <img
-              src="https://smidge.vip/static/media/dexscreener.5e3aa475c6a1996f72e8.svg"
-              className="w3"
-              alt=""
-            />
-          </div>
-          <div className="pa1 fs3 br50 bglp b_s cw ">
-            <img
-              src="https://smidge.vip/static/media/solscan-y.e92bafa1a551aaa2021d.svg"
-              className="w3"
-              alt=""
-            />
-          </div>
+          <a href="" target="_blank">
+            <div className="pa1 fs3 br50 bglp b_s cw ">
+              <FaXTwitter className="bct" />
+            </div>
+          </a>
+          <a href="" target="_blank">
+            <div className="pa1 fs3 br50 bglp b_s cw ">
+              <FaTelegramPlane className="bct" />
+            </div>
+          </a>
+          <a href="" target="_blank">
+            <div className="pa1 fs3 br50 bglp b_s cw ">
+              <img
+                src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
+                className="w3"
+                alt=""
+              />
+            </div>
+          </a>
+          <a href="" target="_blank">
+            <div className="pa1 fs3 br50 bglp b_s cw ">
+              <img
+                src="https://smidge.vip/static/media/dexscreener.5e3aa475c6a1996f72e8.svg"
+                className="w3"
+                alt=""
+              />
+            </div>
+          </a>
+          <a href="" target="_blank">
+            <div className="pa1 fs3 br50 bglp b_s cw ">
+              <img
+                src="https://smidge.vip/static/media/solscan-y.e92bafa1a551aaa2021d.svg"
+                className="w3"
+                alt=""
+              />
+            </div>
+          </a>
         </div>
       </div>
       {/* -----------------------SLIDER-------------------------------- */}
