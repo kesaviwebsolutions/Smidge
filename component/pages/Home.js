@@ -10,23 +10,23 @@ function Home() {
       <div className="containerkws">
         <div className="">
           <div className="tac mb5">
-            <img src="/logo2.webp" className="w20  db ma" alt="" />
-            <img src="/mkd.webp" className="w25  db ma" alt="" />
+            <img src="/logo2.webp" className="animation w20  db ma" alt="" />
+            <img src="/mkd.webp" className="animation w25  db ma" alt="" />
           </div>
           <div className="df aic ttu jcc g1 flex-wrap mb2">
-            <div className="px4 py2 br60 bglp df aic b_s g1 cw fs3">
+            <div className="px3 py2 br60 bglp df aic b_s g1 cw fs2">
               <div className="pa1 bcw br50 df aic jcc">
                 <FaTelegramPlane className="flp bct" />
               </div>
               Telegram
             </div>
-            <div className="px4 py2 br60 bcw lp df b_s aic g1 cw fs3">
+            <div className="px3 py2 br60 bcw lp df b_s aic g1 cw fs2">
               <div className="pa1 bglp br50 df aic jcc">
                 <FaXTwitter className="fw bct" />
               </div>
               Twitter
             </div>{" "}
-            <div className="px4 py2 br60 bcw lp df b_s aic g1 cw fs3">
+            <div className="px3 py2 br60 bcw lp df b_s aic g1 cw fs2">
               <div className="pa1 bglp br50 df aic jcc">
                 <img
                   src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"

@@ -1,8 +1,17 @@
 .modal.show .modal-dialog {
-    position: absolute;
-    width: 80%;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%) !important;
+  position: absolute;
+  width: 80%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) !important;
 }
- 
+
+@keyframes flameMovement {
+  50% {
+    transform: scaleX(0.98) translateY(2px) rotate(-1deg);
+  }
+}
+
+.animation {
+  animation: flameMovement 2s ease-in-out infinite;
+}
