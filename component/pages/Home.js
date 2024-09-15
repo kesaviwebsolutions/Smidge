@@ -14,19 +14,19 @@ function Home() {
             <img src="/mkd.webp" className="animation w25  db ma" alt="" />
           </div>
           <div className="df aic ttu jcc g1 flex-wrap mb2">
-            <div className="px3 py2 br60 bglp df aic b_s g1 cw fs2">
+            <div className="w23 jcc py2 br60 bglp df aic b_s g1 cw fs2">
               <div className="pa1 bcw br50 df aic jcc">
                 <FaTelegramPlane className="flp bct" />
               </div>
               Telegram
             </div>
-            <div className="px3 py2 br60 bcw lp df b_s aic g1 cw fs2">
+            <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 cw fs2">
               <div className="pa1 bglp br50 df aic jcc">
                 <FaXTwitter className="fw bct" />
               </div>
               Twitter
             </div>{" "}
-            <div className="px3 py2 br60 bcw lp df b_s aic g1 cw fs2">
+            <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 cw fs2">
               <div className="pa1 bglp br50 df aic jcc">
                 <img
                   src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
@@ -38,8 +38,16 @@ function Home() {
             </div>
           </div>{" "}
           <div className=" mb4 maxw75 db ma">
-            <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw">
+            <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-b-d-n">
               2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa
+              <FaRegCopy className="fs15 bct" />
+            </div>
+            <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n">
+              {String("2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa").slice(
+                0,
+                4
+              ) + "..."}
+
               <FaRegCopy className="fs15 bct" />
             </div>
           </div>
@@ -209,7 +217,7 @@ function Home() {
       {/* --------------------------------------------------- */}
       <img src="/social.webp" className="w100" alt="" />
       {/* ----------------------------------------------------- */}
-      <div className="containerkws tac mt_3 lp">
+      <div className="containerkws tac mqmt_3 lp">
         <div className="tac fs3 fw600">Socials</div>
         <div className="tac fs3 fw600">Join the Smidge Culture</div>
         <div className="df aic jcc g1 mb5">
@@ -278,7 +286,13 @@ function Home() {
       {/* -------------------------------------------------------- */}
       <div className="py7 df aic jcsb lp containerkws">
         <div className="">SMIDGE 2024</div>
-        <div className="">2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa</div>
+        <div className="m-q-b-d-n">
+          2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa
+        </div>
+        <div className="m-q-a-d-n">
+          {String("2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa").slice(0, 10) +
+            "..."}
+        </div>
       </div>
     </div>
   );
