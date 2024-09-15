@@ -9,7 +9,7 @@ function Accordion() {
   };
 
   return (
-    <div className="accordion-container">
+    <div className="accordion-container ">
       <div className="accordion-item">
         <div className="accordion-header" onClick={() => toggleAccordion(0)}>
           <span className="icon">{activeIndex === 0 ? "..." : "▼"}</span>

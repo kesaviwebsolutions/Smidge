@@ -1,5 +1,7 @@
 import React from "react";
 import Accordian from "./Accordian";
+import { FaRegCopy, FaTelegramPlane } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 function Home() {
   return (
@@ -11,60 +13,39 @@ function Home() {
             <img src="/logo2.webp" className="w20  db ma" alt="" />
             <img src="/mkd.webp" className="w25  db ma" alt="" />
           </div>
-          <div className="btn-group df aic g1 jcc flex-wrap">
-            <a
-              href="https://t.me/smidgecoin"
-              class="btn primary large"
-              title="Telegram"
-              rel="noreferrer"
-              target="_blank"
-            >
-              <span class="btn-circ">
-                <i data-ico="tg"></i>
-              </span>
-              TELEGRAM
-            </a>
-            <a
-              href="https://x.com/SmidgeCoin"
-              class="btn secondary large"
-              title="Twitter"
-              rel="noreferrer"
-              target="_blank"
-            >
-              <span class="btn-circ">
-                <i data-ico="tw" data-theme="yellow"></i>
-              </span>
-              TWITTER
-            </a>
-            <a
-              href="https://www.dextools.io/app/en/solana/pair-explorer/H99U7toZ5gEuJKLANECvaXqfVq2AGFFk5SRxttN6Zyqo?t=1719239221490"
-              class="btn secondary large"
-              title="DEXTOOLS"
-              rel="noreferrer"
-              target="_blank"
-            >
-              <span class="btn-circ">
-                <i data-ico="dextools" data-theme="yellow"></i>
-              </span>
-              DEXTOOLS
-            </a>
+          <div className="df aic ttu jcc g1 flex-wrap mb2">
+            <div className="px4 py2 br60 bglp df aic b_s g1 cw fs3">
+              <div className="pa1 bcw br50 df aic jcc">
+                <FaTelegramPlane className="flp bct" />
+              </div>
+              Telegram
+            </div>
+            <div className="px4 py2 br60 bcw lp df b_s aic g1 cw fs3">
+              <div className="pa1 bglp br50 df aic jcc">
+                <FaXTwitter className="fw bct" />
+              </div>
+              Twitter
+            </div>{" "}
+            <div className="px4 py2 br60 bcw lp df b_s aic g1 cw fs3">
+              <div className="pa1 bglp br50 df aic jcc">
+                <img
+                  src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
+                  alt=""
+                  className="w2"
+                />
+              </div>
+              Dextool
+            </div>
           </div>{" "}
-          <section class="contractCopy">
-            <input
-              type="text"
-              value="2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa"
-              style={{ position: "fixed", left: "-9999px" }}
-            />
-            <p class="clipboard">
-              <span class="reduced">
-                2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa
-              </span>
-              <i data-ico="clipboard"></i>
-            </p>
-          </section>
+          <div className=" mb4 maxw75 db ma">
+            <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw">
+              2HjefZ23Jk4jgm8R8bW4VWrnfEURRJW1XphXeKzZjwUa
+              <FaRegCopy className="fs15 bct" />
+            </div>
+          </div>
         </div>
       </div>
-      {/* //---------------------------------------- */}
+      {/* //---------------------SLIDER------------------- */}
       <div className="">
         <div class="note fw">
           <div class="marquee bordered marquee-left">
@@ -98,10 +79,11 @@ function Home() {
         </div>
         {/* //---------------------------------------- */}
       </div>
+      {/* -------------------------------------------------- */}
       <div className="">
         <img src="/piggyimage.webp" alt="" />
       </div>
-      {/* ------------------------------------- */}
+      {/* -------------------SLIDER------------------ */}
       <div className="">
         <div class="note fw">
           <div class="marquee bordered marquee-left">
@@ -139,7 +121,7 @@ function Home() {
       <div className="containerkws mt5">
         <div className="dg gtc g3">
           <div className="">
-            <div className="fs2 fw600 mb1 lp">Who is $SMIDGE?</div>
+            <div className="fs3 fw600 mb1 lp">Who is $SMIDGE?</div>
             <div className="mb2 fs15 lp">
               Meet Smidge, a smoller, cuter version of Pepe from the 5th
               generation of the frog kingdom. Known for his exaggerated
@@ -153,7 +135,7 @@ function Home() {
           </div>
         </div>
       </div>
-      {/* ------------------------------------ */}
+      {/* ---------------SLIDER--------------------- */}
       <div className="">
         <div class="note fw">
           <div class="marquee bordered marquee-left">
@@ -187,34 +169,34 @@ function Home() {
         </div>
         {/* //---------------------------------------- */}
       </div>
-      {/* -------------------------------------------- */}
+      {/* ---------------------TOKENOMICS----------------------- */}
       <div className="bglp">
         <div className="containerkws">
-          <div className="fs2 fw600 tac my3 cw">Tokenomics</div>
+          <div className="fs3 fw600 tac py4 cw">Tokenomics</div>
           <div className="b1 pa3 br30">
             <div className="dg gtc g3">
               <div className="">
                 <img src="/box.webp" className="w25 db ma" alt="" />
               </div>
               <div className="">
-                <div className="fs2 fw600 mb1">Supply Breakdown</div>
-                <div className=""> Token supply: 999 999 999</div>
-                <ul>
+                <div className="fs3 fw600 mb1 lpd">Supply Breakdown</div>
+                <div className="cw"> Token supply: 999 999 999</div>
+                <ul className="cw">
                   <li>LP LOCKED</li>
                   <li>MINT REVOKED</li>
                   <li>CONTRACT RENOUNCED</li>
                 </ul>
-                <hr />
-                <div className="fs2 fw600">Token Holders</div>
-                <div className="">
+                <hr className="cw mt2" />
+                <div className="fs3 fw600 lpd">Token Holders</div>
+                <div className="cw">
                   Token Holders SMIDGE tokens holders can use these tokens to
                   participate in project governance, voting, obtaining rewards
                 </div>
               </div>
             </div>
           </div>
-          <div className="my5 dg gtc g2">
-            <div className="fs2 fw600 cw">
+          <div className="my5 pb7 dg gtc g2 ">
+            <div className="fs3 fw600 cw">
               Buy Smidge now and join us in the Frog Kingdom takeover!
             </div>
             <div className="">
@@ -230,8 +212,9 @@ function Home() {
       <div className="containerkws tac mt_3 lp">
         <div className="tac fs3 fw600">Socials</div>
         <div className="tac fs3 fw600">Join the Smidge Culture</div>
+        <div className="df aic jcc g1 "></div>
       </div>
-      {/* ------------------------------------------------------- */}
+      {/* -----------------------SLIDER-------------------------------- */}
       <div className="">
         <div class="note fw">
           <div class="marquee bordered marquee-left">

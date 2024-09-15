@@ -128,9 +128,7 @@ svg,
   font-size: var(--btn-huge);
   padding: var(--btn-large-padding);
 }
-.btn:not(.spaceless) {
-  margin-top: var(--v-medium);
-}
+
 .marquee.bordered {
   -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: var(--green);
@@ -185,4 +183,35 @@ svg,
   border-radius: 70px !important;
   border-style: solid black !important;
   border-width: 2px 2px 6px 6px !important;
+}
+html {
+  text-shadow: -1px 2px 0 #000 !important;
+}
+
+.br60 {
+  border-radius: 60px !important;
+}
+
+.flp {
+  fill: #9b74e7 !important;
+}
+.b_s {
+  box-shadow: -5px 6px 0 0 var(--h-accent) !important;
+  &:hover {
+    box-shadow: none !important;
+  }
+}
+.b_s2 {
+  box-shadow: -5px 6px 0 0 #9b74e7 !important;
+  &:hover {
+    box-shadow: none !important;
+  }
+}
+
+.bglp2 {
+  background-color: var(--h-accent);
+}
+
+.lpd {
+  color: var(--h-accent) !important ;
 }
