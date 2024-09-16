@@ -223,7 +223,7 @@ function Home() {
       {/* ----------------------------------------------------- */}
       <div className="containerkws tac  lp">
         <div className="tac fs3 c_y  fw600">Socials</div>
-        <div className="tac fs3 c_y  fw600">Join the Sancho Culture</div>
+        <div className="tac fs3 c_y  fw600 mb1">Join the Sancho Culture</div>
         <div className="df aic jcc g1 mb5">
           <a href="" target="_blank">
             <div className="pa1 fs3 c_y  br50 bg_y b_s cw ">
