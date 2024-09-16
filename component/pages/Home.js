@@ -298,7 +298,7 @@ function Home() {
         </div>
       </div>
       {/* -------------------------------------------------------- */}
-      <div className="py7 df aic jcsb cw containerkws">
+      <div className="py3 df aic jcsb cw containerkws">
         <div className="">&copy; $SANCHO 2024</div>
         <div className="m-q-b-d-n">
           1111111111111111111111111111111111111111111111
