@@ -1,7 +1,7 @@
 @font-face {
   font-family: "font";
-  // src: url("../../public/font/DeliciousHandrawn-Regular.ttf");
-  src: url("../../public/font2/MilkyNiceClean-K7JXe.otf");
+  src: url("../../public/font/DeliciousHandrawn-Regular.ttf");
+  // src: url("../../public/font2/MilkyNiceClean-K7JXe.otf");
 }
 
 * {
@@ -9,6 +9,7 @@
   padding: 0;
   box-sizing: borderbox;
   font-family: "font";
+  font-weight: 600;
 
   ul {
     margin: 0 !important;

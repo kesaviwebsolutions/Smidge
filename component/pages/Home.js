@@ -10,8 +10,9 @@ function Home() {
       <div className="containerkws">
         <div className="">
           <div className="tac mb5">
-            <img src="/logo2.webp" className="animation w20  db ma" alt="" />
-            <img src="/mkd.webp" className="animation w25  db ma" alt="" />
+            <p>EL SANCHO</p>
+            {/* <img src="/logo2.webp" className="animation w20  db ma" alt="" /> */}
+            <img src="/sancho.jpg" className="animation w25  db ma" alt="" />
           </div>
           <div className="df aic ttu jcc g1 flex-wrap mb2">
             <a href="" target="_blank">
@@ -34,7 +35,7 @@ function Home() {
               <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 cw fs2">
                 <div className="pa1 bglp br50 df aic jcc">
                   <img
-                    src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
+                    src="https://Sancho.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
                     alt=""
                     className="w2"
                   />
@@ -95,7 +96,7 @@ function Home() {
       </div>
       {/* -------------------------------------------------- */}
       <div className="">
-        <img src="/piggyimage.webp" alt="" />
+        <img src="/sancho-banner.png" alt="" />
       </div>
       {/* -------------------SLIDER------------------ */}
       <div className="">
@@ -137,15 +138,15 @@ function Home() {
           <div className="">
             <div className="fs3 fw600 mb1 lp">Who is $SANCHO?</div>
             <div className="mb2 fs15 lp">
-              Meet Smidge, a smoller, cuter version of Pepe from the 5th
+              Meet Sancho, a smoller, cuter version of Pepe from the 5th
               generation of the frog kingdom. Known for his exaggerated
               expressions, he gained popularity on 4chan and Reddit, becoming
-              viral. Join Smidge's journey to become the ultimate KOP (King of
+              viral. Join Sancho's journey to become the ultimate KOP (King of
               the Pond) and reign over the kingdom.
             </div>
           </div>
           <div className="">
-            <img src="/smidge.webp" className="w30 db ma" alt="" />
+            <img src="/Sancho.webp" className="w30 db ma" alt="" />
           </div>
         </div>
       </div>
@@ -190,7 +191,7 @@ function Home() {
           <div className="b1 pa3 br30">
             <div className="dg gtc g3">
               <div className="">
-                <img src="/box.webp" className="w25 db ma" alt="" />
+                <img src="/sancho-socials.jpg" className="w25 db ma" alt="" />
               </div>
               <div className="">
                 <div className="fs3 fw600 mb1 lpd">Supply Breakdown</div>
@@ -211,7 +212,7 @@ function Home() {
           </div>
           <div className="my5 pb7 dg gtc g2 ">
             <div className="fs3 fw600 cw">
-              Buy Smidge now and join us in the Frog Kingdom takeover!
+              Buy Sancho now and join us in the Frog Kingdom takeover!
             </div>
             <div className="">
               {" "}
@@ -221,11 +222,11 @@ function Home() {
         </div>
       </div>
       {/* --------------------------------------------------- */}
-      <img src="/social.webp" className="w100" alt="" />
+      {/* <img src="/sancho-socials.jpg" className="w100" alt="" /> */}
       {/* ----------------------------------------------------- */}
       <div className="containerkws tac mqmt_3 lp">
         <div className="tac fs3 fw600">Socials</div>
-        <div className="tac fs3 fw600">Join the Smidge Culture</div>
+        <div className="tac fs3 fw600">Join the Sancho Culture</div>
         <div className="df aic jcc g1 mb5">
           <a href="" target="_blank">
             <div className="pa1 fs3 br50 bglp b_s cw ">
@@ -240,7 +241,7 @@ function Home() {
           <a href="" target="_blank">
             <div className="pa1 fs3 br50 bglp b_s cw ">
               <img
-                src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
+                src="https://Sancho.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
                 className="w3"
                 alt=""
               />
@@ -249,7 +250,7 @@ function Home() {
           <a href="" target="_blank">
             <div className="pa1 fs3 br50 bglp b_s cw ">
               <img
-                src="https://smidge.vip/static/media/dexscreener.5e3aa475c6a1996f72e8.svg"
+                src="https://Sancho.vip/static/media/dexscreener.5e3aa475c6a1996f72e8.svg"
                 className="w3"
                 alt=""
               />
@@ -258,7 +259,7 @@ function Home() {
           <a href="" target="_blank">
             <div className="pa1 fs3 br50 bglp b_s cw ">
               <img
-                src="https://smidge.vip/static/media/solscan-y.e92bafa1a551aaa2021d.svg"
+                src="https://Sancho.vip/static/media/solscan-y.e92bafa1a551aaa2021d.svg"
                 className="w3"
                 alt=""
               />

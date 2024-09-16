@@ -5,7 +5,7 @@ function Navbar() {
     <div className="pa2">
       <div className="df ai jcsb">
         <div className="">
-          <img src="/logo.webp" className="w15" alt="" />
+          {/* <img src="/logo.webp" className="w15" alt="" /> */}
         </div>
         <div className="">
           <div class="buttons fw800">
@@ -16,7 +16,7 @@ function Navbar() {
               rel="noreferrer"
               target="_blank"
             >
-              GET SMIDGE
+              GET $SANCHO
             </a>
           </div>
         </div>
