@@ -132,11 +132,11 @@ function Home() {
         </div>
       </div>
       {/* -------------------------------------- */}
-      <div className="containerkws mt5">
+      <div className="containerkws my5">
         <div className="dg gtc g3">
           <div className="">
             <div className="fs3 c_y  fw600 mb1 lp">Who is $SANCHO?</div>
-            <div className="mb2 fs15 cw">
+            <div className="mb05 fs15 cw">
               Meet Sancho, a smoller, cuter version of Pepe from the 5th
               generation of the frog kingdom. Known for his exaggerated
               expressions, he gained popularity on 4chan and Reddit, becoming
@@ -221,7 +221,7 @@ function Home() {
       {/* --------------------------------------------------- */}
       {/* <img src="/sancho-socials.jpg" className="w100" alt="" /> */}
       {/* ----------------------------------------------------- */}
-      <div className="containerkws tac  lp">
+      <div className="containerkws tac my5 lp">
         <div className="tac fs3 c_y  fw600">Socials</div>
         <div className="tac fs3 c_y  fw600 mb1">Join the Sancho Culture</div>
         <div className="df aic jcc g1 mb5">
