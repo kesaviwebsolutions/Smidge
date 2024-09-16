@@ -193,15 +193,15 @@ function Home() {
               </div>
               <div className="">
                 <div className="fs3 c_y  fw600 mb1 lpd">Supply Breakdown</div>
-                <div className="cw"> Token supply: 999 999 999</div>
-                <ul className="cw">
+                <div className="cw fs15"> Token supply: 999 999 999</div>
+                <ul className="cw fs15">
                   <li>LP LOCKED</li>
                   <li>MINT REVOKED</li>
                   <li>CONTRACT RENOUNCED</li>
                 </ul>
                 <hr className="cw mt2" />
                 <div className="fs3 c_y  fw600 lpd">Token Holders</div>
-                <div className="cw">
+                <div className="cw fs15">
                   Token Holders SANCHO tokens holders can use these tokens to
                   participate in project governance, voting, obtaining rewards
                 </div>
