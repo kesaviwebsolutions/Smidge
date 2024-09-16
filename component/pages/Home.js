@@ -16,26 +16,26 @@ function Home() {
           </div>
           <div className="df aic ttu jcc g1 flex-wrap mb2">
             <a href="" target="_blank">
-              <div className="w23 jcc py2 br60 bglp df aic b_s g1 cw fs2">
+              <div className="w23 jcc py2 br60 bg_y df aic b_s g1 cw fs2">
                 <div className="pa1 bcw br50 df aic jcc">
-                  <FaTelegramPlane className="flp bct" />
+                  <FaTelegramPlane className="f_y bct" />
                 </div>
                 Telegram
               </div>
             </a>
             <a href="" target="_blank">
-              <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 cw fs2">
-                <div className="pa1 bglp br50 df aic jcc">
+              <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 c_y fs2">
+                <div className="pa1 bg_y br50 df aic jcc">
                   <FaXTwitter className="fw bct" />
                 </div>
                 Twitter
               </div>
             </a>
             <a href="" target="_blank">
-              <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 cw fs2">
-                <div className="pa1 bglp br50 df aic jcc">
+              <div className="w23 jcc py2 br60 bcw lp df b_s aic g1 c_y fs2">
+                <div className="pa1 bg_y br50 df aic jcc">
                   <img
-                    src="https://Sancho.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
+                    src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
                     alt=""
                     className="w2"
                   />
@@ -45,7 +45,7 @@ function Home() {
             </a>
           </div>
           <div className=" mb4 maxw75 db ma">
-            <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-b-d-n">
+            <div className="df aic jcc g1 px4 py2 fs125 br60 bg_y b_s2 cw m-q-b-d-n">
               1111111111111111111111111111111111111111111111
               <FaRegCopy className="fs15 bct" />
             </div>
@@ -130,14 +130,13 @@ function Home() {
             </div>
           </div>
         </div>
-        {/* //---------------------------------------- */}
       </div>
       {/* -------------------------------------- */}
       <div className="containerkws mt5">
         <div className="dg gtc g3">
           <div className="">
-            <div className="fs3 fw600 mb1 lp">Who is $SANCHO?</div>
-            <div className="mb2 fs15 lp">
+            <div className="fs3 c_y  fw600 mb1 lp">Who is $SANCHO?</div>
+            <div className="mb2 fs15 cw">
               Meet Sancho, a smoller, cuter version of Pepe from the 5th
               generation of the frog kingdom. Known for his exaggerated
               expressions, he gained popularity on 4chan and Reddit, becoming
@@ -182,19 +181,18 @@ function Home() {
             </div>
           </div>
         </div>
-        {/* //---------------------------------------- */}
       </div>
       {/* ---------------------TOKENOMICS----------------------- */}
       <div className="bglp">
         <div className="containerkws">
-          <div className="fs3 fw600 tac py4 cw">Tokenomics</div>
+          <div className="fs3 c_y  fw600 tac py4 cw">Tokenomics</div>
           <div className="b1 pa3 br30">
             <div className="dg gtc g3">
               <div className="">
                 <img src="/sancho-socials.jpg" className="w25 db ma" alt="" />
               </div>
               <div className="">
-                <div className="fs3 fw600 mb1 lpd">Supply Breakdown</div>
+                <div className="fs3 c_y  fw600 mb1 lpd">Supply Breakdown</div>
                 <div className="cw"> Token supply: 999 999 999</div>
                 <ul className="cw">
                   <li>LP LOCKED</li>
@@ -202,7 +200,7 @@ function Home() {
                   <li>CONTRACT RENOUNCED</li>
                 </ul>
                 <hr className="cw mt2" />
-                <div className="fs3 fw600 lpd">Token Holders</div>
+                <div className="fs3 c_y  fw600 lpd">Token Holders</div>
                 <div className="cw">
                   Token Holders SANCHO tokens holders can use these tokens to
                   participate in project governance, voting, obtaining rewards
@@ -211,11 +209,10 @@ function Home() {
             </div>
           </div>
           <div className="my5 pb7 dg gtc g2 ">
-            <div className="fs3 fw600 cw">
+            <div className="fs3 c_y  fw600 cw">
               Buy Sancho now and join us in the Frog Kingdom takeover!
             </div>
             <div className="">
-              {" "}
               <Accordian />
             </div>
           </div>{" "}
@@ -224,42 +221,42 @@ function Home() {
       {/* --------------------------------------------------- */}
       {/* <img src="/sancho-socials.jpg" className="w100" alt="" /> */}
       {/* ----------------------------------------------------- */}
-      <div className="containerkws tac mqmt_3 lp">
-        <div className="tac fs3 fw600">Socials</div>
-        <div className="tac fs3 fw600">Join the Sancho Culture</div>
+      <div className="containerkws tac  lp">
+        <div className="tac fs3 c_y  fw600">Socials</div>
+        <div className="tac fs3 c_y  fw600">Join the Sancho Culture</div>
         <div className="df aic jcc g1 mb5">
           <a href="" target="_blank">
-            <div className="pa1 fs3 br50 bglp b_s cw ">
+            <div className="pa1 fs3 c_y  br50 bg_y b_s cw ">
               <FaXTwitter className="bct" />
             </div>
           </a>
           <a href="" target="_blank">
-            <div className="pa1 fs3 br50 bglp b_s cw ">
+            <div className="pa1 fs3 c_y  br50 bg_y b_s cw ">
               <FaTelegramPlane className="bct" />
             </div>
           </a>
           <a href="" target="_blank">
-            <div className="pa1 fs3 br50 bglp b_s cw ">
+            <div className="pa1 fs3 c_y  br50 bg_y b_s cw ">
               <img
-                src="https://Sancho.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
+                src="https://Smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
                 className="w3"
                 alt=""
               />
             </div>
           </a>
           <a href="" target="_blank">
-            <div className="pa1 fs3 br50 bglp b_s cw ">
+            <div className="pa1 fs3 c_y  br50 bg_y b_s cw ">
               <img
-                src="https://Sancho.vip/static/media/dexscreener.5e3aa475c6a1996f72e8.svg"
+                src="https://Smidge.vip/static/media/dexscreener.5e3aa475c6a1996f72e8.svg"
                 className="w3"
                 alt=""
               />
             </div>
           </a>
           <a href="" target="_blank">
-            <div className="pa1 fs3 br50 bglp b_s cw ">
+            <div className="pa1 fs3 c_y  br50 bg_y b_s cw ">
               <img
-                src="https://Sancho.vip/static/media/solscan-y.e92bafa1a551aaa2021d.svg"
+                src="https://Smidge.vip/static/media/solscan-y.e92bafa1a551aaa2021d.svg"
                 className="w3"
                 alt=""
               />
@@ -301,14 +298,16 @@ function Home() {
         </div>
       </div>
       {/* -------------------------------------------------------- */}
-      <div className="py7 df aic jcsb lp containerkws">
+      <div className="py7 df aic jcsb cw containerkws">
         <div className="">&copy; $SANCHO 2024</div>
         <div className="m-q-b-d-n">
-        1111111111111111111111111111111111111111111111
+          1111111111111111111111111111111111111111111111
         </div>
         <div className="m-q-a-d-n">
-          {String("1111111111111111111111111111111111111111111111").slice(0, 10) +
-            "..."}
+          {String("1111111111111111111111111111111111111111111111").slice(
+            0,
+            10
+          ) + "..."}
         </div>
       </div>
     </div>
