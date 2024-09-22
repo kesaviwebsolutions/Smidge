@@ -81,7 +81,7 @@ select,
 .pa-1.offcanvas.offcanvas-start.show,
 svg,
 .dropdown-menu.show {
-  background-color: black !important;
+  background-color: #736380 !important;
   color: white;
   fill: white !important;
   border-color: white !important;
@@ -132,7 +132,7 @@ svg,
 .marquee.bordered {
   -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: var(--green);
-  background-color: #f1c301;
+  background-color: #736380;
   border-bottom: 2px solid var(--negative);
   border-top: 2px solid var(--negative);
   color: var(--yellow);
@@ -175,9 +175,9 @@ svg,
   color: #9b74e7 !important ;
 }
 
-.bglp {
-  background-color: #9b74e7 !important;
-}
+// .bglp {
+//   background-color: #9b74e7 !important;
+// }
 
 .br30 {
   border-radius: 70px !important;
@@ -196,20 +196,20 @@ html {
   fill: #9b74e7 !important;
 }
 .b_s {
-  box-shadow: -5px 6px 0 0 #ffe677 !important;
+  box-shadow: -5px 6px 0 0 #453552 !important;
   &:hover {
     box-shadow: none !important;
   }
 }
 .b_s2 {
-  box-shadow: -5px 6px 0 0 #ffe263 !important;
+  box-shadow: -5px 6px 0 0 #453552 !important;
   &:hover {
     box-shadow: none !important;
   }
 }
 
 .b_s3 {
-  box-shadow: -3px 5px 0 0 #ffe263 !important;
+  box-shadow: -3px 5px 0 0 #453552 !important;
   &:hover {
     box-shadow: none !important;
   }
@@ -224,13 +224,33 @@ html {
 }
 
 .c_y {
-  color: #f1c301 !important;
+  color: #736380 !important;
 }
 
 .bg_y {
-  background-color: #f1c301 !important;
+  background-color: #736380 !important;
 }
 
 .f_y {
-  fill: #f1c301 !important;
+  fill: #736380 !important;
+}
+
+.bgg {
+  background-color: #6d8064 !important;
+}
+
+.f_b {
+  fill: #6d8064 !important;
+}
+
+.bgb {
+  background-color: #736380 !important;
+}
+
+.cg {
+  color: #6d8064 !important;
+}
+
+.cbb {
+  color: #736380 !important;
 }
