@@ -105,7 +105,7 @@ function Home() {
       </div>
       {/* -------------------------------------------------- */}
       <div className="">
-        <img src="/sancho-banner.png" alt="" />
+        <img src="/Sancho-banner-2.png" alt="" />
       </div>
       {/* -------------------SLIDER------------------ */}
       <div className="">
@@ -160,10 +160,10 @@ function Home() {
                   <ul>
                     <li className="df aic g05 cb">
                       <div className="w1 h1 br50 bgg "></div>
-                      Good Mourning Texts
+                      Good Morning Texts
                     </li>
                     <li className="df aic g05 cb">
-                      <div className="w1 h1 br50 bgg"></div>Unlimited intimecy
+                      <div className="w1 h1 br50 bgg"></div>Unlimited intimacy
                     </li>
                     <li className="df aic g05 cb">
                       <div className="w1 h1 br50 bgg"></div>2 hours venting time
@@ -180,7 +180,7 @@ function Home() {
                 <div className="df aic g1 mt1">
                   <BsFillTelephoneFill className="f_b bct fs2" />
                   <div className="cb">
-                    <div className="fs15">www.sancho.vipi</div>
+                    <div className="fs15">www.sancho.meme</div>
                     <div className="fs15 fw600">(555) 555-SANCHO</div>
                   </div>
                 </div>
