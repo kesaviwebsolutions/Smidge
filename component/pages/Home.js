@@ -23,7 +23,7 @@ function Home() {
             </div>
             <div className="df aic ttu jcc g1 flex-wrap mb2">
               <a href="https://t.me/sanchoSol" target="_blank">
-                <div className="w23 jcc py2 br60 bg_y df aic b_s g1 cw fs2">
+                <div className="w23 jcc py1 br60 bg_y df aic b_s g1 cw fs15">
                   <div className="pa1 bcw br50 df aic jcc">
                     <FaTelegramPlane className="f_y bct" />
                   </div>
@@ -31,7 +31,7 @@ function Home() {
                 </div>
               </a>
               <a href="https://x.com/sanchocoin" target="_blank">
-                <div className="w23 jcc py2 br60 bcw cbb df b_s aic g1 cw fs2">
+                <div className="w23 jcc py1 br60 bcw cbb df b_s aic g1 cw fs15">
                   <div className="pa1 bg_y br50 df aic jcc">
                     <FaXTwitter className="fw bct" />
                   </div>
@@ -39,7 +39,7 @@ function Home() {
                 </div>
               </a>
               <a href="" target="_blank">
-                <div className="w23 jcc py2 br60 bcw cbb df b_s aic g1 cw fs2">
+                <div className="w23 jcc py1 br60 bcw cbb df b_s aic g1 cw fs15">
                   <div className="pa1 bg_y br50 df aic jcc">
                     <img
                       src="https://smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
@@ -139,6 +139,21 @@ function Home() {
           </div>
         </div>
       </div>
+      {/* -------------------ABOUT SANCHO----------------- */}
+      <div className="containerkws cw py5">
+        <div className="dg gtc g2">
+          <div className="">
+            <div className="fs2 fw600 mb2">ABOUT SANCHO</div>
+            <div className="fs15">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,
+              possimus eos adipisci expedita consectetur, ut maiores ab
+              veritatis, dolore animi temporibus aspernatur porro tempore
+              explicabo iure nesciunt repellendus tempora beatae!
+            </div>
+          </div>
+          <div className=""></div>
+        </div>
+      </div>
       {/* -------------------------------------- */}
       <div className="bgg">
         <div className="containerkws py5 maxw50 ">
@@ -188,23 +203,6 @@ function Home() {
           </div>
         </div>
       </div>
-      {/* <div className="containerkws my5">
-        <div className="dg gtc g3">
-          <div className="">
-            <div className="fs3 cw  fw600 mb1 lp">Who is $SANCHO?</div>
-            <div className="mb05 fs15 cw">
-              Meet Sancho, a smoller, cuter version of Pepe from the 5th
-              generation of the frog kingdom. Known for his exaggerated
-              expressions, he gained popularity on 4chan and Reddit, becoming
-              viral. Join Sancho's journey to become the ultimate KOP (King of
-              the Pond) and reign over the kingdom.
-            </div>
-          </div>
-          <div className="">
-            <img src="/Sancho.webp" className="w30 db ma" alt="" />
-          </div>
-        </div>
-      </div> */}
       {/* ---------------SLIDER--------------------- */}
       <div className="">
         <div class="note fw">
@@ -240,7 +238,7 @@ function Home() {
       </div>
       {/* ---------------------TOKENOMICS----------------------- */}
       <div className="bglp">
-        <div className="containerkws maxw50">
+        <div className="containerkws maxw50 pb5">
           <div className="fs3 cw  fw600 tac py4 cw">Tokenomics</div>
           <div className="b1 pa3 br30">
             <div className="dg gtc g3">
@@ -270,20 +268,23 @@ function Home() {
               </div>
             </div>
           </div>
-          <div className="my5  dg gtc g2 ">
-            <div className="">
-              <div className="fs2 cw mb2 fw600 cw">
-                Buy Sancho now and join us in the Frog Kingdom takeover!
-              </div>
-              <div className="">
-                <img src="/sancho-horny.jpg" className="db ma br50" alt="" />
-              </div>
-            </div>
-            <div className="">
-              <Accordian />
-            </div>
-          </div>{" "}
         </div>
+      </div>
+      {/* ----------------------------------- */}
+      <div className="bgg">
+        <div className="pt5 db ma  dg gtc maxw50 g2 ">
+          <div className="">
+            <div className="fs2 cw mb2 fw600 cw">
+              Buy Sancho now and join us in the Frog Kingdom takeover!
+            </div>
+            <div className="">
+              <img src="/sancho-horny.jpg" className="db ma br50" alt="" />
+            </div>
+          </div>
+          <div className="">
+            <Accordian />
+          </div>
+        </div>{" "}
       </div>
       {/* --------------------------------------------------- */}
       {/* <img src="/sancho-socials.jpg" className="w100" alt="" /> */}
@@ -293,38 +294,38 @@ function Home() {
         <div className="tac fs3 cw  fw600 mb1">Join the Sancho Culture</div>
         <div className="df aic jcc g1 mb5">
           <a href="https://x.com/sanchocoin" target="_blank">
-            <div className="pa1 fs3 cw  br50 bgg b_s cw ">
+            <div className="pa1 fs2 cw  br50 bgg b_s cw ">
               <FaXTwitter className="bct" />
             </div>
           </a>
           <a href="https://t.me/sanchoSol" target="_blank">
-            <div className="pa1 fs3 cw  br50 bgg b_s cw ">
+            <div className="pa1 fs2 cw  br50 bgg b_s cw ">
               <FaTelegramPlane className="bct" />
             </div>
           </a>
           <a href="" target="_blank">
-            <div className="pa1 fs3 cw  br50 bgg b_s cw ">
+            <div className="pa1 fs2 cw  br50 bgg b_s cw ">
               <img
                 src="https://Smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
-                className="w3"
+                className="w2"
                 alt=""
               />
             </div>
           </a>
           <a href="" target="_blank">
-            <div className="pa1 fs3 cw  br50 bgg b_s cw ">
+            <div className="pa1 fs2 cw  br50 bgg b_s cw ">
               <img
                 src="https://Smidge.vip/static/media/dexscreener.5e3aa475c6a1996f72e8.svg"
-                className="w3"
+                className="w2"
                 alt=""
               />
             </div>
           </a>
           <a href="" target="_blank">
-            <div className="pa1 fs3 cw  br50 bgg b_s cw ">
+            <div className="pa1 fs2 cw  br50 bgg b_s cw ">
               <img
                 src="https://Smidge.vip/static/media/solscan-y.e92bafa1a551aaa2021d.svg"
-                className="w3"
+                className="w2"
                 alt=""
               />
             </div>
