@@ -155,20 +155,20 @@ function Home() {
             </div>
             <div className="">
               <div className="bcw pa1 br10 mb05">
-                <div className="fs2 fw600 mb1">Service</div>
-                <div className="fs15">
+                <div className="fs2 fw600 mb1 cb">Service</div>
+                <div className="fs15 cb">
                   <ul>
-                    <li className="df aic g05">
-                      <div className="w1 h1 br50 bgg"></div>
+                    <li className="df aic g05 cb">
+                      <div className="w1 h1 br50 bgg "></div>
                       Good Mourning Texts
                     </li>
-                    <li className="df aic g05">
+                    <li className="df aic g05 cb">
                       <div className="w1 h1 br50 bgg"></div>Unlimited intimecy
                     </li>
-                    <li className="df aic g05">
+                    <li className="df aic g05 cb">
                       <div className="w1 h1 br50 bgg"></div>2 hours venting time
                     </li>
-                    <li className="df aic g05">
+                    <li className="df aic g05 cb">
                       <div className="w1 h1 br50 bgg"></div>Smoking drinking
                       optional
                     </li>
@@ -179,7 +179,7 @@ function Home() {
                 <button className="bgb py05 fs15 br10 cw w100">Book now</button>
                 <div className="df aic g1 mt1">
                   <BsFillTelephoneFill className="f_b bct fs2" />
-                  <div className="">
+                  <div className="cb">
                     <div className="fs15">www.sancho.vipi</div>
                     <div className="fs15 fw600">(555) 555-SANCHO</div>
                   </div>
