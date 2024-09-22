@@ -143,12 +143,20 @@ function Home() {
       <div className="containerkws cw py5">
         <div className="dg gtc g2">
           <div className="">
-            <div className="fs2 fw600 mb2">ABOUT SANCHO</div>
+            <div className="fs5 fw600 mb2">Sancho Services</div>
             <div className="fs15">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa,
-              possimus eos adipisci expedita consectetur, ut maiores ab
-              veritatis, dolore animi temporibus aspernatur porro tempore
-              explicabo iure nesciunt repellendus tempora beatae!
+              <p className="fs3 fw600 mb2">We got Your girl Covered!</p>
+              <p>Don't worry, Sancho knows times are tough. But just because your coins are down doesn’t mean her standards should be!</p>
+
+              <p className="fs3 fw600 mb2">Why Sancho Services?</p>
+
+              <p>Spoil Her Without Spending:</p>
+              <p>Your coins might be worthless, but she’s not! Sancho will handle the spa days, shopping sprees, and fancy dinners you can’t afford.</p>
+
+              <p>Bull Market Treatment:</p>
+              <p>While you’re HODLing, Sancho pampering. From diamond earrings to surprise getaways, she gets the best while you watch the market.</p>
+
+              Sancho Services: Keeping her happy so you can HODL in peace!
             </div>
           </div>
           <div className=""></div>
