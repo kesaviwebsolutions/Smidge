@@ -271,9 +271,14 @@ function Home() {
               </div>
             </div>
           </div>
-          <div className="my5 pb7 dg gtc g2 ">
-            <div className="fs3 cw  fw600 cw">
-              Buy Sancho now and join us in the Frog Kingdom takeover!
+          <div className="my5  dg gtc g2 ">
+            <div className="">
+              <div className="fs2 cw mb2 fw600 cw">
+                Buy Sancho now and join us in the Frog Kingdom takeover!
+              </div>
+              <div className="">
+                <img src="/sancho-horny.jpg" className="db ma br50" alt="" />
+              </div>
             </div>
             <div className="">
               <Accordian />
