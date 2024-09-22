@@ -146,7 +146,7 @@ function Home() {
           <div className="fs4 tac fw600 mb2 cw">GOOD TIMES</div>
           <div className="dg gtc g2">
             <div className="">
-              <img src="/mansitting.jpg" className="mb1 " alt="" />
+              <img src="/sancho.jpg" className="mb1 br10" alt="" />
               <button className="px3 py05 br10 fs15 bgb cw w100">SANCHO</button>
             </div>
             <div className="">
