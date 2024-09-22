@@ -18,12 +18,12 @@ function Home() {
               {/* <img src="/logo2.webp" className="animation w20  db ma" alt="" /> */}
               <img
                 src="/sancho-logo.jpg"
-                className="animation w25  db ma"
+                className="animation w20  db ma"
                 alt=""
               />
             </div>
             <div className="df aic ttu jcc g1 flex-wrap mb2">
-              <a href="" target="_blank">
+              <a href="https://t.me/sanchoSol" target="_blank">
                 <div className="w23 jcc py2 br60 bg_y df aic b_s g1 cw fs2">
                   <div className="pa1 bcw br50 df aic jcc">
                     <FaTelegramPlane className="f_y bct" />
@@ -31,7 +31,7 @@ function Home() {
                   Telegram
                 </div>
               </a>
-              <a href="" target="_blank">
+              <a href="https://x.com/sanchocoin" target="_blank">
                 <div className="w23 jcc py2 br60 bcw cbb df b_s aic g1 cw fs2">
                   <div className="pa1 bg_y br50 df aic jcc">
                     <FaXTwitter className="fw bct" />
@@ -288,12 +288,12 @@ function Home() {
         <div className="tac fs3 cw  fw600">Socials</div>
         <div className="tac fs3 cw  fw600 mb1">Join the Sancho Culture</div>
         <div className="df aic jcc g1 mb5">
-          <a href="" target="_blank">
+          <a href="https://x.com/sanchocoin" target="_blank">
             <div className="pa1 fs3 cw  br50 bgg b_s cw ">
               <FaXTwitter className="bct" />
             </div>
           </a>
-          <a href="" target="_blank">
+          <a href="https://t.me/sanchoSol" target="_blank">
             <div className="pa1 fs3 cw  br50 bgg b_s cw ">
               <FaTelegramPlane className="bct" />
             </div>
