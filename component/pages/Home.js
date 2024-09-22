@@ -143,6 +143,10 @@ function Home() {
       {/* -------------------------------------- */}
       <div className="bgg">
         <div className="containerkws py5 maxw50 ">
+          <div className="mb1 w100 df aic  fs15 bgb br20 jcsb ttu cw">
+            <div className="bcw cb py05 px4 br20">Professional</div>
+            <div className="py05 pr3">sancho</div>
+          </div>
           <div className="fs4 tac fw600 mb2 cw">GOOD TIMES</div>
           <div className="dg gtc g2">
             <div className="">
