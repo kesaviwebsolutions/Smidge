@@ -5,7 +5,7 @@ function Navbar() {
     <div className="pa2">
       <div className="df ai jcsb">
         <div className="">
-          <img src="/sancho-logo-new.png" className="w8" alt="" />
+          <img src="/sancho-logo-new.png" className="w5" alt="" />
           <p className="cw">EL SANCHO</p>
         </div>
         <div className="">
