@@ -12,7 +12,7 @@ function Home() {
           <div className="tac mb5">
             <p>EL SANCHO</p>
             {/* <img src="/logo2.webp" className="animation w20  db ma" alt="" /> */}
-            <img src="/sancho.jpg" className="animation w25  db ma" alt="" />
+            <img src="/sancho-logo.jpg" className="animation w25  db ma" alt="" />
           </div>
           <div className="df aic ttu jcc g1 flex-wrap mb2">
             <a href="" target="_blank">
@@ -45,14 +45,14 @@ function Home() {
             </a>
           </div>
           <div className=" mb4 maxw75 db ma">
-            <div className="df aic jcc g1 px4 py2 fs125 br60 bg_y b_s2 cw m-q-b-d-n">
+            <div className="df aic jcc g1 px4 py2 fs15 br60 bg_y b_s2 cw m-q-b-d-n">
               1111111111111111111111111111111111111111111111
               <FaRegCopy className="fs15 bct" />
             </div>
-            <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n">
+            <div className="df aic jcc g1 px4 py2 fs15 br60 bglp2 b_s2 cw m-q-a-d-n">
               {String("1111111111111111111111111111111111111111111111").slice(
                 0,
-                4
+                8
               ) + "..."}
 
               <FaRegCopy className="fs15 bct" />
