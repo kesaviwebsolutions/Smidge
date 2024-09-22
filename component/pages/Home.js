@@ -18,7 +18,7 @@ function Home() {
               {/* <img src="/logo2.webp" className="animation w20  db ma" alt="" /> */}
               <img
                 src="/sancho-logo.jpg"
-                className="animation w25  db ma"
+                className="animation w20  db ma"
                 alt=""
               />
             </div>
