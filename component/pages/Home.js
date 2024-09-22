@@ -14,7 +14,7 @@ function Home() {
         <div className="containerkws">
           <div className="">
             <div className="tac mb5">
-              <p>EL SANCHO</p>
+              <p className="cw">EL SANCHO</p>
               {/* <img src="/logo2.webp" className="animation w20  db ma" alt="" /> */}
               <img
                 src="/sancho-logo.jpg"
