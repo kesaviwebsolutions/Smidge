@@ -146,16 +146,22 @@ function Home() {
             <div className="fs5 fw600 mb2">Sancho Services</div>
             <div className="fs15">
               <p className="fs3 fw600 mb2">We got Your girl Covered!</p>
-              <p>Don't worry, Sancho knows times are tough. But just because your coins are down doesn’t mean her standards should be!</p>
-
+              <p>
+                Don't worry, Sancho knows times are tough. But just because your
+                coins are down doesn’t mean her standards should be!
+              </p>
               <p className="fs3 fw600 mb2">Why Sancho Services?</p>
-
               <p>Spoil Her Without Spending:</p>
-              <p>Your coins might be worthless, but she’s not! Sancho will handle the spa days, shopping sprees, and fancy dinners you can’t afford.</p>
-
+              <p>
+                Your coins might be worthless, but she’s not! Sancho will handle
+                the spa days, shopping sprees, and fancy dinners you can’t
+                afford.
+              </p>
               <p>Bull Market Treatment:</p>
-              <p>While you’re HODLing, Sancho pampering. From diamond earrings to surprise getaways, she gets the best while you watch the market.</p>
-
+              <p>
+                While you’re HODLing, Sancho pampering. From diamond earrings to
+                surprise getaways, she gets the best while you watch the market.
+              </p>
               Sancho Services: Keeping her happy so you can HODL in peace!
             </div>
           </div>
@@ -280,9 +286,9 @@ function Home() {
       </div>
       {/* ----------------------------------- */}
       <div className="bgg">
-        <div className="pt5 db ma  dg gtc maxw50 g2 ">
+        <div className="pt5 db ma  dg gtc maxw50 g2 containerkws ">
           <div className="">
-            <div className="fs2 cw mb2 fw600 cw">
+            <div className="fs2 cw mb2 fw600 cw mqtac">
               Buy Sancho now and join us in the Frog Kingdom takeover!
             </div>
             <div className="">
