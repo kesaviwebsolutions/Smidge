@@ -241,7 +241,7 @@ function Home() {
       </div>
       {/* ---------------------TOKENOMICS----------------------- */}
       <div className="bglp">
-        <div className="containerkws">
+        <div className="containerkws maxw50">
           <div className="fs3 cw  fw600 tac py4 cw">Tokenomics</div>
           <div className="b1 pa3 br30">
             <div className="dg gtc g3">
