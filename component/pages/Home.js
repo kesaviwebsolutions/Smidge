@@ -14,7 +14,6 @@ function Home() {
         <div className="containerkws">
           <div className="">
             <div className="tac mb5">
-              <p className="cw">EL SANCHO</p>
               {/* <img src="/logo2.webp" className="animation w20  db ma" alt="" /> */}
               <img
                 src="/sancho-logo.jpg"
@@ -105,7 +104,7 @@ function Home() {
       </div>
       {/* -------------------------------------------------- */}
       <div className="">
-        <img src="/Sancho-banner-2.png" alt="" />
+        <img src="/sancho-banner-final.webp" alt="" />
       </div>
       {/* -------------------SLIDER------------------ */}
       <div className="">
