@@ -71,7 +71,7 @@ function Home() {
       {/* //---------------------SLIDER------------------- */}
       <div className="">
         <div class="note fw">
-          {/* <div class="marquee bordered marquee-left">
+          <div class="marquee bordered marquee-left">
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
                 $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
@@ -98,7 +98,7 @@ function Home() {
                 $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
-          </div> */}
+          </div>
         </div>
         {/* //---------------------------------------- */}
       </div>
@@ -109,7 +109,7 @@ function Home() {
       {/* -------------------SLIDER------------------ */}
       <div className="">
         <div class="note fw">
-          {/* <div class="marquee bordered marquee-left">
+          <div class="marquee bordered marquee-left">
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
                 $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
@@ -136,7 +136,7 @@ function Home() {
                 $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
-          </div> */}
+          </div>
         </div>
       </div>
       {/* -------------------ABOUT SANCHO----------------- */}
@@ -220,7 +220,7 @@ function Home() {
       {/* ---------------SLIDER--------------------- */}
       <div className="">
         <div class="note fw">
-          {/* <div class="marquee bordered marquee-left">
+          <div class="marquee bordered marquee-left">
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
                 $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
@@ -247,7 +247,7 @@ function Home() {
                 $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
-          </div> */}
+          </div>
         </div>
       </div>
       {/* ---------------------TOKENOMICS----------------------- */}
@@ -349,7 +349,7 @@ function Home() {
       {/* -----------------------SLIDER-------------------------------- */}
       <div className="">
         <div class="note fw">
-          {/* <div class="marquee bordered marquee-left">
+          <div class="marquee bordered marquee-left">
             <div class="marquee-el" style={{ animationDuration: "45s" }}>
               <p>
                 $SANCHO $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;$SANCHO
@@ -376,9 +376,8 @@ function Home() {
                 $SANCHO&nbsp;&nbsp;$SANCHO $SANCHO&nbsp;&nbsp;
               </p>
             </div>
-          </div> */}
+          </div>
         </div>
-        <hr></hr>
       </div>
       {/* -------------------------------------------------------- */}
       <div className="py3 df aic jcsb cw containerkws">

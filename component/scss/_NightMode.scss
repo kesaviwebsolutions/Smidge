@@ -130,8 +130,8 @@ svg,
 }
 
 .marquee.bordered {
-  -webkit-text-stroke-width: 1.5px;
-  -webkit-text-stroke-color: var(--green);
+  // -webkit-text-stroke-width: 1.5px;
+  // -webkit-text-stroke-color: var(--green);
   background-color: #B680E5;
   border-bottom: 2px solid var(--negative);
   border-top: 2px solid var(--negative);
@@ -139,7 +139,7 @@ svg,
   font-family: var(--heading);
   padding-bottom: var(--gutter);
   padding-top: var(--gutter);
-  // text-shadow: -2px 3px 0 var(--green);
+  // text-shadow: none !important;
   text-transform: uppercase;
 }
 .marquee {
