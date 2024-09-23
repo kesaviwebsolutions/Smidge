@@ -18,9 +18,7 @@ function Accordion() {
         {activeIndex === 0 && (
           <div className="accordion-content fs2 pa2">
             <p className="fs15">
-              SANCHO is a tiny, adorable version of Pepe the Frog, known for his
-              exaggerated expressions and popularity on social media platforms
-              like Reddit.
+              Most of us degens are too caught up hunting for the "the next banger" to handle our women's needs, whether it’s emotional or... you know, the other stuff. That’s where Sancho comes in — perfect for the typical degen who’s always grinding and just doesnt have the time to put in the work
             </p>
           </div>
         )}
