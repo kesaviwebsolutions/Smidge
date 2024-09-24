@@ -16,7 +16,7 @@ function Home() {
             <div className="tac mb5">
               {/* <img src="/logo2.webp" className="animation w20  db ma" alt="" /> */}
               <img
-                src="/sancho-logo.jpg"
+                src="/sancho-logo.png"
                 className="animation w20  db ma"
                 alt=""
               />
@@ -53,11 +53,11 @@ function Home() {
             </div>
             <div className=" pb4 maxw75 db ma">
               <div className="df aic jcc g1 px4 py1 fs25 br60 bg_y b_s2 cw m-q-b-d-n">
-                1111111111111111111111111111111111111111111111
+              E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B
                 <FaRegCopy className="fs15 bct" />
               </div>
               <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n">
-                {String("1111111111111111111111111111111111111111111111").slice(
+                {String("E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B").slice(
                   0,
                   4
                 ) + "..."}
@@ -257,7 +257,7 @@ function Home() {
           <div className="b1 pa3 br30">
             <div className="dg gtc g3">
               <div className="">
-                <img src="/manExcercise.jpg" className="w25 db ma" alt="" />
+                <img src="/manExcercise.png" className="w25 db ma" alt="" />
               </div>
               <div className="">
                 <div className="fs3 cw  fw600 mb1 ">Supply Breakdown</div>
@@ -292,7 +292,7 @@ function Home() {
               Hire sancho now to make sure the job is done to perfection.
             </div>
             <div className="mb2">
-              <img src="/sancho-horny.jpg" className="db ma br50" alt="" />
+              <img src="/mansitting.png" className="db ma br50" alt="" />
             </div>
           </div>
           <div className="">
@@ -305,7 +305,7 @@ function Home() {
       {/* ----------------------------------------------------- */}
       <div className="containerkws tac my5 lp">
         <div className="tac fs3 cw  fw600">Socials</div>
-        <div className="tac fs3 cw  fw600 mb1">Join the Sancho Culture</div>
+        <div className="tac fs3 cw  fw600 mb1">Join to find your tailored Sancho</div>
         <div className="df aic jcc g1 mb5">
           <a href="https://x.com/sanchocoin" target="_blank">
             <div className="pa1 fs2 cw  br50 bgg b_s cw ">
@@ -383,10 +383,10 @@ function Home() {
       <div className="py3 df aic jcsb cw containerkws">
         <div className="">&copy; $SANCHO 2024</div>
         <div className="m-q-b-d-n fs15">
-          1111111111111111111111111111111111111111111111
+        E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B
         </div>
         <div className="m-q-a-d-n fs15">
-          {String("1111111111111111111111111111111111111111111111").slice(
+          {String("E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B").slice(
             0,
             10
           ) + "..."}
