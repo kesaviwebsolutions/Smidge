@@ -150,7 +150,8 @@ function Home() {
             type="video/mp4"
             autoplay
             loop
-            width="100%"
+            width="65%"
+            style={{display: "block", margin: "0 auto"}}
           ></video>
         </div>
         <div className="">
