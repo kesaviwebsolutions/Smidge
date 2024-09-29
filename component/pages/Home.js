@@ -53,7 +53,7 @@ function Home() {
             </div>
             <div className=" pb4 maxw75 db ma">
               <div className="df aic jcc g1 px4 py1 fs25 br60 bg_y b_s2 cw m-q-b-d-n">
-              E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B
+                E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B
                 <FaRegCopy className="fs15 bct" />
               </div>
               <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n">
@@ -140,32 +140,39 @@ function Home() {
         </div>
       </div>
       {/* -------------------ABOUT SANCHO----------------- */}
-      <div className="containerkws cw py5">
-        <div className="dg gtc g2">
-          <div className="">
-            <div className="fs5 fw600 mb2">Sancho Services</div>
-            <div className="fs15">
-              <p className="fs3 fw600 mb2">We got Your girl Covered!</p>
-              <p>
-                Don't worry, Sancho knows times are tough. But just because your
-                coins are down doesn’t mean her standards should be!
-              </p>
-              <p className="fs3 fw600 mb2">Why Sancho Services?</p>
-              <p>Spoil Her Without Spending:</p>
-              <p>
-                Your coins might be worthless, but she’s not! Sancho will handle
-                the spa days, shopping sprees, and fancy dinners you can’t
-                afford.
-              </p>
-              <p>Bull Market Treatment:</p>
-              <p>
-                While you’re HODLing, Sancho pampering. From diamond earrings to
-                surprise getaways, she gets the best while you watch the market.
-              </p>
-              Sancho Services: Keeping her happy so you can HODL in peace!
-            </div>
+      <div className="containerkws cw py3">
+        <div className="fs4 tac fw600 mb2 cw">Sancho Services</div>
+
+        <div className="">
+          <video
+            controls
+            src="/final_pedro.mp4"
+            type="video/mp4"
+            autoplay
+            loop
+            width="100%"
+          ></video>
+        </div>
+        <div className="">
+          <div className="fs15">
+            <p className="fs3 tac fw600 mt2">We got Your girl Covered!</p>
+            <p className="tac">
+              Don't worry, Sancho knows times are tough. But just because your
+              coins are down doesn’t mean her standards should be!
+            </p>
+            <p className="fs3 tac fw600 mt2">Why Sancho Services?</p>
+            <p className="tac">Spoil Her Without Spending:</p>
+            <p className="tac">
+              Your coins might be worthless, but she’s not! Sancho will handle
+              the spa days, shopping sprees, and fancy dinners you can’t afford.
+            </p>
+            <p className="tac">Bull Market Treatment:</p>
+            <p className="tac">
+              While you’re HODLing, Sancho pampering. From diamond earrings to
+              surprise getaways, she gets the best while you watch the market.
+            </p>
+            <p className="tac">Sancho Services: Keeping her happy so you can HODL in peace!</p>
           </div>
-          <div className=""></div>
         </div>
       </div>
       {/* -------------------------------------- */}
@@ -305,7 +312,9 @@ function Home() {
       {/* ----------------------------------------------------- */}
       <div className="containerkws tac my5 lp">
         <div className="tac fs3 cw  fw600">Socials</div>
-        <div className="tac fs3 cw  fw600 mb1">Join to find your tailored Sancho</div>
+        <div className="tac fs3 cw  fw600 mb1">
+          Join to find your tailored Sancho
+        </div>
         <div className="df aic jcc g1 mb5">
           <a href="https://x.com/sanchocoin" target="_blank">
             <div className="pa1 fs2 cw  br50 bgg b_s cw ">
@@ -383,13 +392,11 @@ function Home() {
       <div className="py3 df aic jcsb cw containerkws">
         <div className="">&copy; $SANCHO 2024</div>
         <div className="m-q-b-d-n fs15">
-        E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B
+          E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B
         </div>
         <div className="m-q-a-d-n fs15">
-          {String("E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B").slice(
-            0,
-            10
-          ) + "..."}
+          {String("E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B").slice(0, 10) +
+            "..."}
         </div>
       </div>
     </div>
