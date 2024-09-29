@@ -1,11 +1,19 @@
+"use client";
 import React from "react";
 import Accordian from "./Accordian";
 import { FaRegCopy, FaTelegramPlane } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { BsFillTelephoneFill } from "react-icons/bs";
 import Navbar from "./Navbar";
+import Toasters, { notify } from "./Toaster";
 
 function Home() {
+  const copySelected = (selectedText) => {
+    navigator.clipboard.writeText(selectedText).then(() => {
+      notify("Copied !!!");
+    });
+  };
+
   return (
     <div className="">
       <div className="bgg">
@@ -54,7 +62,12 @@ function Home() {
             <div className=" pb4 maxw75 db ma">
               <div className="df aic jcc g1 px4 py1 fs25 br60 bg_y b_s2 cw m-q-b-d-n">
                 E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B
-                <FaRegCopy className="fs15 bct" />
+                <FaRegCopy
+                  className="fs15 bct cp"
+                  onClick={() =>
+                    copySelected("E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B")
+                  }
+                />
               </div>
               <div className="df aic jcc g1 px4 py2 fs125 br60 bglp2 b_s2 cw m-q-a-d-n">
                 {String("E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B").slice(
@@ -62,7 +75,12 @@ function Home() {
                   4
                 ) + "..."}
 
-                <FaRegCopy className="fs15 bct" />
+                <FaRegCopy
+                  className="fs15 bct cp"
+                  onClick={() =>
+                    copySelected("E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B")
+                  }
+                />
               </div>
             </div>
           </div>
@@ -151,7 +169,7 @@ function Home() {
             autoplay
             loop
             width="65%"
-            style={{display: "block", margin: "0 auto"}}
+            style={{ display: "block", margin: "0 auto" }}
           ></video>
         </div>
         <div className="">
@@ -172,7 +190,9 @@ function Home() {
               While you’re HODLing, Sancho pampering. From diamond earrings to
               surprise getaways, she gets the best while you watch the market.
             </p>
-            <p className="tac">Sancho Services: Keeping her happy so you can HODL in peace!</p>
+            <p className="tac">
+              Sancho Services: Keeping her happy so you can HODL in peace!
+            </p>
           </div>
         </div>
       </div>
@@ -400,6 +420,7 @@ function Home() {
             "..."}
         </div>
       </div>
+      <Toasters />
     </div>
   );
 }
