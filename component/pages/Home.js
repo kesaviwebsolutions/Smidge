@@ -46,7 +46,7 @@ function Home() {
                   Twitter
                 </div>
               </a>
-              <a href="" target="_blank">
+              <a href="https://www.dextools.io/app/en/solana/pair-explorer/HYgpqu278R6pXX9as3rKBBycMk7AWnYJRtqzxEBQ14rn?t=1727625514134" target="_blank">
                 <div className="w23 jcc py1 br60 bcw cbb df b_s aic g1 cw fs15">
                   <div className="pa1 bg_y br50 df aic jcc">
                     <img
@@ -347,7 +347,7 @@ function Home() {
               <FaTelegramPlane className="bct" />
             </div>
           </a>
-          <a href="" target="_blank">
+          <a href="https://www.dextools.io/app/en/solana/pair-explorer/HYgpqu278R6pXX9as3rKBBycMk7AWnYJRtqzxEBQ14rn?t=1727625514134" target="_blank">
             <div className="pa1 fs2 cw  br50 bgg b_s cw ">
               <img
                 src="https://Smidge.vip/static/media/dextools-y.fc7e910a97ed6efdefae.svg"
@@ -356,7 +356,7 @@ function Home() {
               />
             </div>
           </a>
-          <a href="" target="_blank">
+          <a href="https://dexscreener.com/solana/hygpqu278r6pxx9as3rkbbycmk7awnyjrtqzxebq14rn" target="_blank">
             <div className="pa1 fs2 cw  br50 bgg b_s cw ">
               <img
                 src="https://Smidge.vip/static/media/dexscreener.5e3aa475c6a1996f72e8.svg"
@@ -365,7 +365,7 @@ function Home() {
               />
             </div>
           </a>
-          <a href="" target="_blank">
+          <a href="https://solscan.io/token/E33ise4T7jX4ngT5sMVEMFEumksGNgwEWvvM2EcpgV5B" target="_blank">
             <div className="pa1 fs2 cw  br50 bgg b_s cw ">
               <img
                 src="https://Smidge.vip/static/media/solscan-y.e92bafa1a551aaa2021d.svg"
